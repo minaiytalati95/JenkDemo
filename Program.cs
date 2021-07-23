@@ -7,7 +7,7 @@ namespace JenkDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(Sum(2, 3).ToString());
+            Console.WriteLine(Sum(2, 4).ToString());
         }
 
         static int Sum(int a, int b)
